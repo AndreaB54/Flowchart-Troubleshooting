@@ -88,7 +88,7 @@
         <mxCell id="TYqNpPFM6TGwHHhuPpuI-29" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" source="TYqNpPFM6TGwHHhuPpuI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TYqNpPFM6TGwHHhuPpuI-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYqNpPFM6TGwHHhuPpuI-33" parent="TYqNpPFM6TGwHHhuPpuI-11" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Pengecekan sisi Provider" vertex="1">
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-33" parent="TYqNpPFM6TGwHHhuPpuI-11" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Pengecekan sisi Cabang" vertex="1">
           <mxGeometry height="60" width="120" x="30" y="245" as="geometry" />
         </mxCell>
         <mxCell id="TYqNpPFM6TGwHHhuPpuI-37" parent="TYqNpPFM6TGwHHhuPpuI-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="TYqNpPFM6TGwHHhuPpuI-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
           <mxGeometry height="20" width="50" x="940" y="148" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-65" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengecekan Sisi Cabang" vertex="1">
+          <mxGeometry height="400" width="540" x="10" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
