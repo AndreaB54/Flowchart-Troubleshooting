@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="9vhfLtuUu_MpJ2AiOVXD">
+    <mxGraphModel dx="851" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pEuGeytKHn6pjW4NDgE5-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Checklink Problem" vertex="1">
+          <mxGeometry height="490" width="490" x="100" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P1elN6ceBegf7L-zKAY9-5" edge="1" parent="pEuGeytKHn6pjW4NDgE5-2" source="P1elN6ceBegf7L-zKAY9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P1elN6ceBegf7L-zKAY9-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1elN6ceBegf7L-zKAY9-3" parent="pEuGeytKHn6pjW4NDgE5-2" style="ellipse;whiteSpace=wrap;html=1;" value="Link Intermitten" vertex="1">
+          <mxGeometry height="40" width="120" x="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P1elN6ceBegf7L-zKAY9-4" parent="pEuGeytKHn6pjW4NDgE5-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Identifikasi jenis router cabang" vertex="1">
+          <mxGeometry height="40" width="140" x="170" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
