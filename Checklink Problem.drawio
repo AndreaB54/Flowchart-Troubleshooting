@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="9vhfLtuUu_MpJ2AiOVXD">
-    <mxGraphModel dx="851" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pEuGeytKHn6pjW4NDgE5-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Checklink Problem" vertex="1">
-          <mxGeometry height="350" width="540" x="90" y="40" as="geometry" />
+          <mxGeometry height="350" width="540" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="P1elN6ceBegf7L-zKAY9-7" edge="1" parent="pEuGeytKHn6pjW4NDgE5-2" source="P1elN6ceBegf7L-zKAY9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="P1elN6ceBegf7L-zKAY9-6">
           <mxGeometry relative="1" as="geometry" />
@@ -33,6 +33,57 @@
         </mxCell>
         <mxCell id="P1elN6ceBegf7L-zKAY9-10" parent="pEuGeytKHn6pjW4NDgE5-2" style="rounded=0;whiteSpace=wrap;html=1;" value="SDWAN Fortinet" vertex="1">
           <mxGeometry height="50" width="152.5" x="361" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-11" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="WAN Conventional" vertex="1">
+          <mxGeometry height="410" width="710" x="600" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-14" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" source="TYqNpPFM6TGwHHhuPpuI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TYqNpPFM6TGwHHhuPpuI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-12" parent="TYqNpPFM6TGwHHhuPpuI-11" style="rounded=0;whiteSpace=wrap;html=1;" value="Login ke perangkat cabang" vertex="1">
+          <mxGeometry height="40" width="120" x="220" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-20" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" source="TYqNpPFM6TGwHHhuPpuI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TYqNpPFM6TGwHHhuPpuI-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-30" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" source="TYqNpPFM6TGwHHhuPpuI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TYqNpPFM6TGwHHhuPpuI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-13" parent="TYqNpPFM6TGwHHhuPpuI-11" style="rhombus;whiteSpace=wrap;html=1;" value="BGP Neighbor lengkap ?" vertex="1">
+          <mxGeometry height="90" width="120" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-16" parent="TYqNpPFM6TGwHHhuPpuI-11" style="ellipse;whiteSpace=wrap;html=1;" value="Selesai" vertex="1">
+          <mxGeometry height="40" width="80" x="385" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-23" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" source="TYqNpPFM6TGwHHhuPpuI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TYqNpPFM6TGwHHhuPpuI-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-19" parent="TYqNpPFM6TGwHHhuPpuI-11" style="rhombus;whiteSpace=wrap;html=1;" value="Koneksi cabang dan Provider Edge baik ?" vertex="1">
+          <mxGeometry height="90" width="120" x="220" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-22" parent="TYqNpPFM6TGwHHhuPpuI-11" style="rhombus;whiteSpace=wrap;html=1;" value="Koneksi PE di DC dan IPsec baik ?" vertex="1">
+          <mxGeometry height="90" width="120" x="390" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-24" parent="TYqNpPFM6TGwHHhuPpuI-11" style="rounded=0;whiteSpace=wrap;html=1;" value="Follow up ke Provider" vertex="1">
+          <mxGeometry height="40" width="130" x="385" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-25" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" source="TYqNpPFM6TGwHHhuPpuI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TYqNpPFM6TGwHHhuPpuI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-31" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" source="TYqNpPFM6TGwHHhuPpuI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TYqNpPFM6TGwHHhuPpuI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-26" parent="TYqNpPFM6TGwHHhuPpuI-11" style="rhombus;whiteSpace=wrap;html=1;" value="Koneksi tunnel DC ke cabang baik ?" vertex="1">
+          <mxGeometry height="90" width="120" x="545" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-27" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" source="TYqNpPFM6TGwHHhuPpuI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TYqNpPFM6TGwHHhuPpuI-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-28" parent="TYqNpPFM6TGwHHhuPpuI-11" style="rounded=0;whiteSpace=wrap;html=1;" value="Cek Konfigurasi Tunnel" vertex="1">
+          <mxGeometry height="40" width="130" x="540" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="TYqNpPFM6TGwHHhuPpuI-29" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" source="TYqNpPFM6TGwHHhuPpuI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TYqNpPFM6TGwHHhuPpuI-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
