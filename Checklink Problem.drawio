@@ -107,7 +107,43 @@
           <mxGeometry height="20" width="50" x="940" y="148" as="geometry" />
         </mxCell>
         <mxCell id="TYqNpPFM6TGwHHhuPpuI-65" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengecekan Sisi Cabang" vertex="1">
-          <mxGeometry height="400" width="540" x="10" y="380" as="geometry" />
+          <mxGeometry height="480" width="540" x="10" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-3" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-65" source="fYS8cTILx4h1H9qz6oxb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fYS8cTILx4h1H9qz6oxb-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-1" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Pemeriksaan layer 1" vertex="1">
+          <mxGeometry height="30" width="120" x="210" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-5" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-65" source="fYS8cTILx4h1H9qz6oxb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fYS8cTILx4h1H9qz6oxb-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-7" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-65" source="fYS8cTILx4h1H9qz6oxb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fYS8cTILx4h1H9qz6oxb-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-2" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rhombus;whiteSpace=wrap;html=1;" value="Angka statistik interface tinggi ?" vertex="1">
+          <mxGeometry height="90" width="120" x="210" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-4" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Hubungi SOW untuk pengecekan kabel fisik" vertex="1">
+          <mxGeometry height="45" width="120" x="380" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-6" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Pemeriksaan layer 2" vertex="1">
+          <mxGeometry height="30" width="120" x="210" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-8" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Pemeriksaan layer 3" vertex="1">
+          <mxGeometry height="30" width="120" x="210" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-11" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Pemeriksaan layer 3" vertex="1">
+          <mxGeometry height="30" width="120" x="380" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-12" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-65" source="fYS8cTILx4h1H9qz6oxb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fYS8cTILx4h1H9qz6oxb-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-9" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rhombus;whiteSpace=wrap;html=1;" value="Terdapat perubahan ip di int link provider ?" vertex="1">
+          <mxGeometry height="80" width="125" x="207.5" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-10" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-65" source="fYS8cTILx4h1H9qz6oxb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fYS8cTILx4h1H9qz6oxb-9" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
