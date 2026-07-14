@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="9vhfLtuUu_MpJ2AiOVXD">
-    <mxGraphModel dx="1277" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1532" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
           <mxGeometry height="40" width="70" x="1070" y="195" as="geometry" />
         </mxCell>
         <mxCell id="TYqNpPFM6TGwHHhuPpuI-65" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengecekan Sisi Cabang" vertex="1">
-          <mxGeometry height="480" width="540" x="10" y="380" as="geometry" />
+          <mxGeometry height="560" width="540" x="10" y="420" as="geometry" />
         </mxCell>
         <mxCell id="fYS8cTILx4h1H9qz6oxb-3" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-65" source="fYS8cTILx4h1H9qz6oxb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fYS8cTILx4h1H9qz6oxb-2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -141,10 +141,13 @@
         <mxCell id="fYS8cTILx4h1H9qz6oxb-8" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Pemeriksaan layer 3" vertex="1">
           <mxGeometry height="30" width="120" x="210" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="fYS8cTILx4h1H9qz6oxb-11" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Pemeriksaan layer 3" vertex="1">
+        <mxCell id="fYS8cTILx4h1H9qz6oxb-11" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Ubah ip sesuai data tabel" vertex="1">
           <mxGeometry height="30" width="120" x="380" y="395" as="geometry" />
         </mxCell>
         <mxCell id="fYS8cTILx4h1H9qz6oxb-12" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-65" source="fYS8cTILx4h1H9qz6oxb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fYS8cTILx4h1H9qz6oxb-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmmJg_nAHrXnhT2FHE6J-10" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-65" source="fYS8cTILx4h1H9qz6oxb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pmmJg_nAHrXnhT2FHE6J-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYS8cTILx4h1H9qz6oxb-9" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rhombus;whiteSpace=wrap;html=1;" value="Terdapat perubahan ip di int link provider ?" vertex="1">
@@ -152,6 +155,9 @@
         </mxCell>
         <mxCell id="fYS8cTILx4h1H9qz6oxb-10" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-65" source="fYS8cTILx4h1H9qz6oxb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fYS8cTILx4h1H9qz6oxb-9" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmmJg_nAHrXnhT2FHE6J-9" parent="TYqNpPFM6TGwHHhuPpuI-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Cek konfigurasi route-map &amp;amp; prefix-list" vertex="1">
+          <mxGeometry height="30" width="130" x="205" y="480" as="geometry" />
         </mxCell>
         <mxCell id="pmmJg_nAHrXnhT2FHE6J-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MPLS" vertex="1">
           <mxGeometry height="30" width="60" x="940" y="160" as="geometry" />
