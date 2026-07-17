@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Bbwd89mPKZ276QW8u6vw-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Duplicate IP Address" vertex="1">
-          <mxGeometry height="290" width="640" x="450" y="30" as="geometry" />
+          <mxGeometry height="290" width="640" x="440" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Bbwd89mPKZ276QW8u6vw-9" edge="1" parent="Bbwd89mPKZ276QW8u6vw-1" source="Bbwd89mPKZ276QW8u6vw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Bbwd89mPKZ276QW8u6vw-6" value="">
           <mxGeometry relative="1" as="geometry" />
