@@ -321,13 +321,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4gAkTIoh_xoD-doxZafQ-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Open Port Problem" vertex="1">
-          <mxGeometry height="470" width="590" x="150" y="20" as="geometry" />
+          <mxGeometry height="530" width="960" x="150" y="20" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-7" edge="1" parent="4gAkTIoh_xoD-doxZafQ-1" source="isk5Es62q1a24Tc7GDja-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="isk5Es62q1a24Tc7GDja-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-2" parent="4gAkTIoh_xoD-doxZafQ-1" style="ellipse;whiteSpace=wrap;html=1;" value="Mulai" vertex="1">
-          <mxGeometry height="30" width="70" x="250" y="40" as="geometry" />
+          <mxGeometry height="30" width="70" x="200" y="30" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-6" edge="1" parent="4gAkTIoh_xoD-doxZafQ-1" source="isk5Es62q1a24Tc7GDja-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="isk5Es62q1a24Tc7GDja-5" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -336,46 +336,112 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-3" parent="4gAkTIoh_xoD-doxZafQ-1" style="rhombus;whiteSpace=wrap;html=1;" value="Seluruh user tidak dapat akses apk tertentu ?" vertex="1">
-          <mxGeometry height="80" width="110" x="230" y="90" as="geometry" />
+          <mxGeometry height="80" width="110" x="180" y="80" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-5" parent="4gAkTIoh_xoD-doxZafQ-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="IP User terduplicate" vertex="1">
-          <mxGeometry height="50" width="120" x="60" y="105" as="geometry" />
+          <mxGeometry height="50" width="120" x="10" y="95" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-14" edge="1" parent="4gAkTIoh_xoD-doxZafQ-1" source="isk5Es62q1a24Tc7GDja-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-10" parent="4gAkTIoh_xoD-doxZafQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="User ping ke DNS" vertex="1">
-          <mxGeometry height="40" width="95" x="237.5" y="192" as="geometry" />
+          <mxGeometry height="40" width="95" x="187.5" y="182" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-16" edge="1" parent="4gAkTIoh_xoD-doxZafQ-1" source="isk5Es62q1a24Tc7GDja-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="isk5Es62q1a24Tc7GDja-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-13" parent="4gAkTIoh_xoD-doxZafQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tim BNS cek konektivitas dari Router ke apk" vertex="1">
-          <mxGeometry height="50" width="95" x="237.5" y="254" as="geometry" />
+          <mxGeometry height="50" width="95" x="187.5" y="244" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-21" edge="1" parent="4gAkTIoh_xoD-doxZafQ-1" source="isk5Es62q1a24Tc7GDja-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-15" parent="4gAkTIoh_xoD-doxZafQ-1" style="rhombus;whiteSpace=wrap;html=1;" value="Apakah hasilnya open ?" vertex="1">
-          <mxGeometry height="80" width="100" x="235" y="327" as="geometry" />
+          <mxGeometry height="80" width="100" x="185" y="317" as="geometry" />
         </mxCell>
-        <mxCell id="isk5Es62q1a24Tc7GDja-20" parent="4gAkTIoh_xoD-doxZafQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cek access-list" vertex="1">
-          <mxGeometry height="40" width="95" x="374" y="347" as="geometry" />
-        </mxCell>
-        <mxCell id="isk5Es62q1a24Tc7GDja-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
-          <mxGeometry height="30" width="60" x="310" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="isk5Es62q1a24Tc7GDja-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Selesai" vertex="1">
-          <mxGeometry height="30" width="70" x="400" y="454" as="geometry" />
-        </mxCell>
-        <mxCell id="isk5Es62q1a24Tc7GDja-18" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-17">
+        <mxCell id="isk5Es62q1a24Tc7GDja-25" edge="1" parent="4gAkTIoh_xoD-doxZafQ-1" source="isk5Es62q1a24Tc7GDja-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="isk5Es62q1a24Tc7GDja-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="isk5Es62q1a24Tc7GDja-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
-          <mxGeometry height="30" width="60" x="417" y="420" as="geometry" />
+        <mxCell id="isk5Es62q1a24Tc7GDja-20" parent="4gAkTIoh_xoD-doxZafQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cek access-list" vertex="1">
+          <mxGeometry height="40" width="95" x="324" y="337" as="geometry" />
         </mxCell>
-        <mxCell id="isk5Es62q1a24Tc7GDja-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
-          <mxGeometry height="30" width="60" x="466" y="362" as="geometry" />
+        <mxCell id="isk5Es62q1a24Tc7GDja-8" parent="4gAkTIoh_xoD-doxZafQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-17" parent="4gAkTIoh_xoD-doxZafQ-1" style="ellipse;whiteSpace=wrap;html=1;" value="Selesai" vertex="1">
+          <mxGeometry height="30" width="70" x="200" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-18" edge="1" parent="4gAkTIoh_xoD-doxZafQ-1" source="isk5Es62q1a24Tc7GDja-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-22" parent="4gAkTIoh_xoD-doxZafQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="217" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-23" parent="4gAkTIoh_xoD-doxZafQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="269" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-29" edge="1" parent="4gAkTIoh_xoD-doxZafQ-1" source="isk5Es62q1a24Tc7GDja-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="isk5Es62q1a24Tc7GDja-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-24" parent="4gAkTIoh_xoD-doxZafQ-1" style="rhombus;whiteSpace=wrap;html=1;" value="Permit IP Aplikasi terdaftar ?" vertex="1">
+          <mxGeometry height="80" width="80" x="453" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-39" edge="1" parent="4gAkTIoh_xoD-doxZafQ-1" source="isk5Es62q1a24Tc7GDja-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-26" parent="4gAkTIoh_xoD-doxZafQ-1" style="rhombus;whiteSpace=wrap;html=1;" value="Sisi firewall sudah dibuka ?" vertex="1">
+          <mxGeometry height="80" width="95" x="445" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-33" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-37" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="User sudah ajukan SR Open Port ?" vertex="1">
+          <mxGeometry height="80" width="100" x="718" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-28" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="isk5Es62q1a24Tc7GDja-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="664" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="624" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-35" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User request SR" vertex="1">
+          <mxGeometry height="40" width="95" x="856" y="357" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-43" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1106" y="377" />
+              <mxPoint x="1106" y="540" />
+              <mxPoint x="385" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tim BNS &amp;amp; Firewall open port" vertex="1">
+          <mxGeometry height="40" width="110" x="976" y="357" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="800" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="750" y="411" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="557" y="471" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-41" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="674" y="472" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
