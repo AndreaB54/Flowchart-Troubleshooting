@@ -444,7 +444,7 @@
           <mxGeometry height="30" width="60" x="674" y="472" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-44" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Single user unable to access application" vertex="1">
-          <mxGeometry height="300" width="410" x="1130" y="20" as="geometry" />
+          <mxGeometry height="620" width="470" x="1130" y="20" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-47" edge="1" parent="isk5Es62q1a24Tc7GDja-44" source="isk5Es62q1a24Tc7GDja-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-46">
           <mxGeometry relative="1" as="geometry" />
@@ -461,14 +461,77 @@
         <mxCell id="isk5Es62q1a24Tc7GDja-46" parent="isk5Es62q1a24Tc7GDja-44" style="rhombus;whiteSpace=wrap;html=1;" value="Salah satu user tidak dapat akses seluruh apk ?" vertex="1">
           <mxGeometry height="80" width="110" x="170" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="isk5Es62q1a24Tc7GDja-49" parent="isk5Es62q1a24Tc7GDja-44" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Open Port Problem" vertex="1">
+        <mxCell id="isk5Es62q1a24Tc7GDja-49" parent="isk5Es62q1a24Tc7GDja-44" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Open Port Problem ??" vertex="1">
           <mxGeometry height="50" width="120" x="19" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-58" edge="1" parent="isk5Es62q1a24Tc7GDja-44" source="isk5Es62q1a24Tc7GDja-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="isk5Es62q1a24Tc7GDja-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-53" parent="isk5Es62q1a24Tc7GDja-44" style="rounded=0;whiteSpace=wrap;html=1;" value="User cek IP melalui ipconfig" vertex="1">
           <mxGeometry height="40" width="95" x="177.5" y="184" as="geometry" />
         </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-60" edge="1" parent="isk5Es62q1a24Tc7GDja-44" source="isk5Es62q1a24Tc7GDja-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="isk5Es62q1a24Tc7GDja-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-57" parent="isk5Es62q1a24Tc7GDja-44" style="rounded=0;whiteSpace=wrap;html=1;" value="User mengambil Physical Address &amp;amp; IP Gateway" vertex="1">
+          <mxGeometry height="50" width="95" x="177.5" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-59" parent="isk5Es62q1a24Tc7GDja-44" style="rounded=0;whiteSpace=wrap;html=1;" value="Tim BNS remote access ke IP Gateway" vertex="1">
+          <mxGeometry height="50" width="95" x="177.5" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-81" edge="1" parent="isk5Es62q1a24Tc7GDja-44" source="isk5Es62q1a24Tc7GDja-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-68" parent="isk5Es62q1a24Tc7GDja-44" style="rhombus;whiteSpace=wrap;html=1;" value="Terdapat 1 IP dengan MAC-Address yg berbeda ?" vertex="1">
+          <mxGeometry height="80" width="120" x="312" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-80" edge="1" parent="isk5Es62q1a24Tc7GDja-44" source="isk5Es62q1a24Tc7GDja-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-75" parent="isk5Es62q1a24Tc7GDja-44" style="rounded=0;whiteSpace=wrap;html=1;" value="User melakukan release &amp;amp; renew IP" vertex="1">
+          <mxGeometry height="50" width="95" x="177.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-79" parent="isk5Es62q1a24Tc7GDja-44" style="ellipse;whiteSpace=wrap;html=1;" value="Selesai" vertex="1">
+          <mxGeometry height="30" width="50" x="320" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-83" parent="isk5Es62q1a24Tc7GDja-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="258" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-82" parent="isk5Es62q1a24Tc7GDja-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="332" y="463" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-85" parent="isk5Es62q1a24Tc7GDja-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="406" y="433" as="geometry" />
+        </mxCell>
         <mxCell id="isk5Es62q1a24Tc7GDja-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
           <mxGeometry height="30" width="60" x="370" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-64" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="isk5Es62q1a24Tc7GDja-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-77" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-61" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Apakah mac-address user dapat IP dari ARP Table ?" vertex="1">
+          <mxGeometry height="80" width="110" x="1300" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-62" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="isk5Es62q1a24Tc7GDja-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-76" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="isk5Es62q1a24Tc7GDja-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DHCP pada PC user harus diaktifkan" vertex="1">
+          <mxGeometry height="50" width="95" x="1307.5" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="1347" y="481" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-78" edge="1" parent="1" source="isk5Es62q1a24Tc7GDja-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="isk5Es62q1a24Tc7GDja-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isk5Es62q1a24Tc7GDja-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="1338" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
