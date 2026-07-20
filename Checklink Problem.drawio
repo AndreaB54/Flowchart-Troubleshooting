@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram id="IqfTy9Qa5XRMRrwgn1kL" name="Duplicate IP">
-    <mxGraphModel dx="766" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1393" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,7 +126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Checklink Problem" id="9vhfLtuUu_MpJ2AiOVXD">
-    <mxGraphModel dx="726" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,7 +193,7 @@
         <mxCell id="TYqNpPFM6TGwHHhuPpuI-13" parent="TYqNpPFM6TGwHHhuPpuI-11" style="rhombus;whiteSpace=wrap;html=1;" value="BGP Summary lengkap ?" vertex="1">
           <mxGeometry height="90" width="120" x="220" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="v4keN2X_tolYOajlrL1v-4" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="v4keN2X_tolYOajlrL1v-3" value="">
+        <mxCell id="v4keN2X_tolYOajlrL1v-4" edge="1" parent="TYqNpPFM6TGwHHhuPpuI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="320" as="sourcePoint" />
           </mxGeometry>
