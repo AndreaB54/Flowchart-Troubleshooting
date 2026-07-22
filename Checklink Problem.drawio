@@ -560,8 +560,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7yf1r-EIILiYl2PTGQY-132" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#000000;" value="Pengecekan PC User (GANTI JUDUL !!!)" vertex="1">
-          <mxGeometry height="670" width="1000" x="1410" y="690" as="geometry" />
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-132" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#000000;" value="Tshoot IP End User" vertex="1">
+          <mxGeometry height="700" width="1000" x="1410" y="680" as="geometry" />
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-133" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D7yf1r-EIILiYl2PTGQY-137">
           <mxGeometry relative="1" as="geometry" />
@@ -611,11 +611,21 @@
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-187" connectable="0" parent="D7yf1r-EIILiYl2PTGQY-182" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
           <mxGeometry relative="1" x="-0.2128" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-144" parent="D7yf1r-EIILiYl2PTGQY-132" style="rhombus;whiteSpace=wrap;html=1;" value="Terdapat 1 IP dengan MAC-Address yg berbeda ?" vertex="1">
           <mxGeometry height="80" width="120" x="322" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-217" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="D7yf1r-EIILiYl2PTGQY-181">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="690" />
+              <mxPoint x="990.06" y="690" />
+              <mxPoint x="990.06" y="380" />
+              <mxPoint x="383" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-146" parent="D7yf1r-EIILiYl2PTGQY-132" style="rounded=0;whiteSpace=wrap;html=1;" value="User melakukan release &amp;amp; renew IP" vertex="1">
           <mxGeometry height="50" width="95" x="177.5" y="581" as="geometry" />
@@ -659,22 +669,41 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7yf1r-EIILiYl2PTGQY-188" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="D7yf1r-EIILiYl2PTGQY-181">
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-208" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D7yf1r-EIILiYl2PTGQY-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7yf1r-EIILiYl2PTGQY-189" connectable="0" parent="D7yf1r-EIILiYl2PTGQY-188" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
-          <mxGeometry relative="1" x="-0.9463" y="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-209" connectable="0" parent="D7yf1r-EIILiYl2PTGQY-208" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.3725" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-164" parent="D7yf1r-EIILiYl2PTGQY-132" style="rhombus;whiteSpace=wrap;html=1;" value="DHCP Conflict terdeteksi ?" vertex="1">
           <mxGeometry height="80" width="80" x="747" y="402" as="geometry" />
         </mxCell>
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-206" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="D7yf1r-EIILiYl2PTGQY-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-166" parent="D7yf1r-EIILiYl2PTGQY-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Tim BNS clear ip dhcp conflict" vertex="1">
           <mxGeometry height="50" width="95" x="863" y="417" as="geometry" />
         </mxCell>
-        <mxCell id="D7yf1r-EIILiYl2PTGQY-168" parent="D7yf1r-EIILiYl2PTGQY-132" style="rhombus;whiteSpace=wrap;html=1;" value="DHCP binding&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="80" x="747" y="501" as="geometry" />
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-210" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="D7yf1r-EIILiYl2PTGQY-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-211" connectable="0" parent="D7yf1r-EIILiYl2PTGQY-210" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.7763" as="geometry">
+            <mxPoint x="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-214" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="D7yf1r-EIILiYl2PTGQY-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-218" connectable="0" parent="D7yf1r-EIILiYl2PTGQY-214" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="-0.8326" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-168" parent="D7yf1r-EIILiYl2PTGQY-132" style="rhombus;whiteSpace=wrap;html=1;" value="DHCP Pool penuh ?" vertex="1">
+          <mxGeometry height="80" width="80" x="747" y="515" as="geometry" />
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-175" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="D7yf1r-EIILiYl2PTGQY-154">
           <mxGeometry relative="1" as="geometry" />
@@ -736,22 +765,29 @@
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-200" connectable="0" parent="D7yf1r-EIILiYl2PTGQY-199" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
           <mxGeometry relative="1" x="-0.8775" y="1" as="geometry">
-            <mxPoint x="3" y="-1" as="offset" />
+            <mxPoint x="5" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-193" parent="D7yf1r-EIILiYl2PTGQY-132" style="rhombus;whiteSpace=wrap;html=1;" value="IP PC dalam range IP Pool Forescout ?" vertex="1">
           <mxGeometry height="80" width="100" x="333" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="D7yf1r-EIILiYl2PTGQY-203" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" target="D7yf1r-EIILiYl2PTGQY-181">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="540" y="240" />
-              <mxPoint x="383" y="240" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-219" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="D7yf1r-EIILiYl2PTGQY-181">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-196" parent="D7yf1r-EIILiYl2PTGQY-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Tim Forescout melakukan pengecekan PC User" vertex="1">
           <mxGeometry height="45" width="140" x="470" y="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-215" edge="1" parent="D7yf1r-EIILiYl2PTGQY-132" source="D7yf1r-EIILiYl2PTGQY-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="D7yf1r-EIILiYl2PTGQY-181">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990.06" y="648" />
+              <mxPoint x="990.06" y="380" />
+              <mxPoint x="383" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7yf1r-EIILiYl2PTGQY-213" parent="D7yf1r-EIILiYl2PTGQY-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Tim BNS ..." vertex="1">
+          <mxGeometry height="50" width="95" x="739.5" y="623" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
