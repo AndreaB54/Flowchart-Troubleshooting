@@ -126,7 +126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_fpAXQ1Rqid6Twv3LYdw" name="Access Problem">
-    <mxGraphModel dx="1268" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,17 +440,12 @@
             <mxPoint x="259.6266666666667" y="357" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7yf1r-EIILiYl2PTGQY-79" edge="1" parent="D7yf1r-EIILiYl2PTGQY-66" source="D7yf1r-EIILiYl2PTGQY-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="D7yf1r-EIILiYl2PTGQY-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="309.96" y="420" />
-              <mxPoint x="425.03999999999996" y="420" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="1jZARCN9lrhjMhZSoVzk-1" edge="1" parent="D7yf1r-EIILiYl2PTGQY-66" source="D7yf1r-EIILiYl2PTGQY-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="D7yf1r-EIILiYl2PTGQY-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IY0177yHzY2hsDXeoq66-3" connectable="0" parent="D7yf1r-EIILiYl2PTGQY-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
-          <mxGeometry relative="1" x="-0.8962" y="1" as="geometry">
-            <mxPoint y="5" as="offset" />
+        <mxCell id="1jZARCN9lrhjMhZSoVzk-2" connectable="0" parent="1jZARCN9lrhjMhZSoVzk-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="-0.752" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D7yf1r-EIILiYl2PTGQY-80" parent="D7yf1r-EIILiYl2PTGQY-66" style="rhombus;whiteSpace=wrap;html=1;" value="Apakah hasilnya open ?" vertex="1">
