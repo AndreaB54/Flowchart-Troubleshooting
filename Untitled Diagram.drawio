@@ -1121,7 +1121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Checklink Problem" id="oRbqj0_7GChCpU41ZOur">
-    <mxGraphModel dx="3367" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3279" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2142,6 +2142,15 @@
         </mxCell>
         <mxCell id="WPurTPSBKF3NFZHWv0pL-124" parent="WPurTPSBKF3NFZHWv0pL-73" style="rhombus;whiteSpace=wrap;html=1;" value="Ada changes sisi cabang ?" vertex="1">
           <mxGeometry height="80" width="80" x="760" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="pNfayCuuRxhzrUkU9pQt-1" edge="1" parent="WPurTPSBKF3NFZHWv0pL-73" source="WPurTPSBKF3NFZHWv0pL-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WPurTPSBKF3NFZHWv0pL-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="955" y="455" />
+              <mxPoint x="1240" y="455" />
+              <mxPoint x="1240" y="195" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WPurTPSBKF3NFZHWv0pL-125" parent="WPurTPSBKF3NFZHWv0pL-73" style="rounded=0;whiteSpace=wrap;html=1;" value="Follow up ke Provider" vertex="1">
           <mxGeometry height="40" width="91" x="909.5" y="395" as="geometry" />
