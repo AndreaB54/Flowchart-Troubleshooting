@@ -1789,6 +1789,11 @@
         <mxCell id="19qqNWvPWBd-M8umuQWi-119" edge="1" parent="19qqNWvPWBd-M8umuQWi-1" source="19qqNWvPWBd-M8umuQWi-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="19qqNWvPWBd-M8umuQWi-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8p5XOtfbGkCl0xe10I57-89" connectable="0" parent="19qqNWvPWBd-M8umuQWi-119" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="-0.1548" y="-1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="19qqNWvPWBd-M8umuQWi-89" parent="19qqNWvPWBd-M8umuQWi-1" style="rhombus;whiteSpace=wrap;html=1;" value="Ada changes sisi cabang ?" vertex="1">
           <mxGeometry height="80" width="80" x="585" y="375" as="geometry" />
         </mxCell>
@@ -1885,7 +1890,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="19qqNWvPWBd-M8umuQWi-118" parent="19qqNWvPWBd-M8umuQWi-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tim BNS ubah konfigurasi" vertex="1">
-          <mxGeometry height="40" width="80" x="585" y="310" as="geometry" />
+          <mxGeometry height="40" width="80" x="585" y="299" as="geometry" />
         </mxCell>
         <mxCell id="8p5XOtfbGkCl0xe10I57-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="WAN Conventional" vertex="1">
           <mxGeometry height="470" width="1250" x="-680" y="480" as="geometry" />
