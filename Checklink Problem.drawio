@@ -2291,10 +2291,8 @@
             <mxPoint x="655" y="308" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8p5XOtfbGkCl0xe10I57-178" edge="1" parent="8p5XOtfbGkCl0xe10I57-155" source="8p5XOtfbGkCl0xe10I57-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="751" y="415" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="8p5XOtfbGkCl0xe10I57-230" edge="1" parent="8p5XOtfbGkCl0xe10I57-155" source="8p5XOtfbGkCl0xe10I57-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8p5XOtfbGkCl0xe10I57-194">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8p5XOtfbGkCl0xe10I57-179" parent="8p5XOtfbGkCl0xe10I57-155" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Pengecekan konfigurasi sisi Cabang" vertex="1">
           <mxGeometry height="50" width="109" x="561" y="390" as="geometry" />
@@ -2337,28 +2335,24 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8p5XOtfbGkCl0xe10I57-190" edge="1" parent="8p5XOtfbGkCl0xe10I57-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8p5XOtfbGkCl0xe10I57-196">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="831" y="415" as="sourcePoint" />
+        <mxCell id="8p5XOtfbGkCl0xe10I57-231" edge="1" parent="8p5XOtfbGkCl0xe10I57-155" source="8p5XOtfbGkCl0xe10I57-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="8p5XOtfbGkCl0xe10I57-219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8p5XOtfbGkCl0xe10I57-234" connectable="0" parent="8p5XOtfbGkCl0xe10I57-231" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="-0.5" y="-4" as="geometry">
+            <mxPoint x="-5" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8p5XOtfbGkCl0xe10I57-191" connectable="0" parent="8p5XOtfbGkCl0xe10I57-190" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
-          <mxGeometry relative="1" x="-0.3901" as="geometry">
-            <mxPoint x="-25" y="-2" as="offset" />
-          </mxGeometry>
+        <mxCell id="8p5XOtfbGkCl0xe10I57-232" edge="1" parent="8p5XOtfbGkCl0xe10I57-155" source="8p5XOtfbGkCl0xe10I57-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="8p5XOtfbGkCl0xe10I57-196">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8p5XOtfbGkCl0xe10I57-192" edge="1" parent="8p5XOtfbGkCl0xe10I57-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="8p5XOtfbGkCl0xe10I57-219">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="791" y="375" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8p5XOtfbGkCl0xe10I57-193" connectable="0" parent="8p5XOtfbGkCl0xe10I57-192" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
-          <mxGeometry relative="1" x="-0.1548" y="-1" as="geometry">
-            <mxPoint x="-1" y="-1" as="offset" />
+        <mxCell id="8p5XOtfbGkCl0xe10I57-233" connectable="0" parent="8p5XOtfbGkCl0xe10I57-232" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.6632" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8p5XOtfbGkCl0xe10I57-194" parent="8p5XOtfbGkCl0xe10I57-155" style="rhombus;whiteSpace=wrap;html=1;" value="Ada changes sisi cabang ?" vertex="1">
-          <mxGeometry height="80" width="80" x="775" y="375" as="geometry" />
+          <mxGeometry height="80" width="80" x="751" y="375" as="geometry" />
         </mxCell>
         <mxCell id="8p5XOtfbGkCl0xe10I57-224" edge="1" parent="8p5XOtfbGkCl0xe10I57-155" source="8p5XOtfbGkCl0xe10I57-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
